@@ -1,0 +1,3 @@
+#every 5 minutes check user process cpu usage 
+*/5 * * * * root /edit/path/to/cpu_monitor.sh
+
