@@ -47,7 +47,7 @@ It loops over all users and all processes and should be optimized to instead onl
  
 Enjoy
 
-Gregory Cavanagh
-gregory_cavanagh@hms.harvard.edu
-Research Computing Group, Harvard Medical School
-[http://rc.hms.harvard.edu](http://rc.hms.harvard.edu)
+Gregory Cavanagh  
+gregory_cavanagh@hms.harvard.edu  
+Research Computing Group, Harvard Medical School  
+[http://rc.hms.harvard.edu](http://rc.hms.harvard.edu)  
