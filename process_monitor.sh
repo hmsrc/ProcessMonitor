@@ -21,7 +21,7 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
-#echo "Disabled, read README and remove this line when ready" && exit
+echo "Disabled, read README and remove this line when ready" && exit
 
 #
 # config file defines variables, mail template and kill_log_mail()
